@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Kalkun - Open Source Web-based SMS Management   
 Kalkun is open source web-based SMS (Short Message Service) management, it use gammu-smsd (part of gammu family) as SMS gateway engine to deliver and retrieve messages from your phone/modem. 
 
@@ -64,3 +65,7 @@ Open up your browser and go to http://your-location/kalkun
 Default account : username = kalkun, password = kalkun (you can change it after you login)
 
 Enjoy...:)
+=======
+# Kalkun
+Open Source Web based SMS Management
+>>>>>>> dc0a1b457c4c92c3774c36d2e885eb09f061b768
